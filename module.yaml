@@ -15,8 +15,7 @@ metamodule: false
 starsRepository: Seyud/FreePPS
 
 authors:
-  - name: 酷安@瓦力喀
-  - name: Seyud
+  - name: 酷安@瓦力喀/GitHub@Seyud
     url: https://github.com/Seyud
 
 compatibility:
