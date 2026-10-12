@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/KernelSU-Modules/tools/main/schemas/module.schema.json
+# KernelSU Modules 展示用元数据，参考：https://developers.kernelsu.org/docs/zh-CN/module-yaml
+# version / versionCode / 下载地址来自 release ZIP 内的 module.prop，不在此文件中声明。
+schemaVersion: 1
+id: FreePPS
+name: FreePPS
+summary: 解锁并启用米系设备的公版 PPS 快充协议支持。
+description: README.md
+license: GPL-3.0-only
+homepage: https://github.com/Seyud/FreePPS
+support: https://t.me/HyperChargePPS
+tags: [free-pps, pps, programmable-power-supply, xiaomi]
+icon: logo.png
+metamodule: false
+starsRepository: Seyud/FreePPS
+
+authors:
+  - name: 酷安@瓦力喀
+  - name: Seyud
+    url: https://github.com/Seyud
+
+compatibility:
+  architectures: [arm64-v8a]
+
+release:
+  # 同时兼容本地包名 FreePPS_v1.7.0.zip 与 action 生成的 FreePPS-20260821-v1.7.0.zip
+  assetPattern: "FreePPS*.zip"

@@ -1,13 +1,13 @@
-**English** | [简体中文](https://github.com/Seyud/FreePPS/blob/main/docs/README.md)
+**English** | [简体中文](../README.md)
 
 # FreePPS 🔋⚡
 
-<img src="https://raw.githubusercontent.com/KernelSU-Modules-Repo/FreePPS/main/logo.png" style="width: 96px;" alt="logo">
+<img src="../logo.png" style="width: 96px;" alt="logo">
 
 **Enable public PPS fast charging support for Xiaomi/Mi devices!**
 
-[![Version](https://img.shields.io/github/v/release/KernelSU-Modules-Repo/FreePPS?logo=github)](https://github.com/KernelSU-Modules-Repo/FreePPS/releases/latest)
-[![GitHub Downloads](https://img.shields.io/github/downloads/KernelSU-Modules-Repo/FreePPS/total?logo=github&logoColor=green)](https://github.com/KernelSU-Modules-Repo/FreePPS/releases)
+[![Version](https://img.shields.io/github/v/release/Seyud/FreePPS_release?logo=github)](https://github.com/Seyud/FreePPS_release/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/Seyud/FreePPS_release/total?logo=github&logoColor=green)](https://github.com/Seyud/FreePPS_release/releases)
 [![Language](https://img.shields.io/badge/language-Rust-orange?logo=rust&logoColor=orange)](https://www.rust-lang.org/)
 [![Telegram](https://img.shields.io/badge/Telegram-Group-2AABEE?logo=telegram&logoColor=white)](https://t.me/HyperChargePPS)
 
